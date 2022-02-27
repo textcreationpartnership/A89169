@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A view of the court of St Germain since the year 1690. With an account of the entertainment Protestants meet with there. : Directed to the malecontents Protestants of England.</title>
+            <author>Macky, John, d. 1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89169</idno>
+            <idno type="STC">Wing M221B</idno>
+            <idno type="STC">ESTC R180252</idno>
+            <idno type="EEBO-CITATION">45097834</idno>
+            <idno type="OCLC">ocm 45097834</idno>
+            <idno type="VID">171416</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89169)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171416)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2573:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A view of the court of St Germain since the year 1690. With an account of the entertainment Protestants meet with there. : Directed to the malecontents Protestants of England.</title>
+                  <author>Macky, John, d. 1726.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by Andrew Crook, and again re-printed at Glasgow, by Robert Sanders, one of His Majesty's printers.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>M.DC.XC.VI. [i.e. 1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Macky by Wing.</note>
+                  <note>Imperfect: tightly bound, torn, and cropped with some loss of print.</note>
+                  <note>Reproduction of original in the Glasgow University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Jacobites.</term>
+               <term>Protestants --  France.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171416:1"/>
+            <pb facs="tcp:171416:1"/>
+            <p>A VIEW OF THE COURT OF S<hi rend="sup">t</hi> GERMAIN Since the Year 1690. With an Account of the Entertainment <hi>Proteſtants</hi> meet with there. Directed to the <hi>MALE CONTENTS PROTESTANTS</hi> OF ENGLAND</p>
+            <p>
+               <hi>DUBLIN,</hi> Re-printed by <hi>Andrew Crook,</hi> and again Re-printed at <hi>Glaſgow,</hi> by <hi>ROBERT SAN<g ref="char:EOLhyphen"/>DERS,</hi> One of His MAJESTY's Printers. M.DC.XC.VI.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:171416:2"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <hi>THe</hi> Ages to come vvill hardly believe that in <hi>England</hi> there should be found one ſingle <hi>proteſtant Jacobite,</hi> at this time of Day: And the Reform'd Nations abroad are at a loſs vvhat to make of that unaccountable Species of Men.</p>
+            <p>When most of the <hi>Roman Catholick</hi> princes have heartily Embrac'd the late Revolution in <hi>Britain,</hi> as the laſt Effort for the Common liberty of <hi>Eu<g ref="char:EOLhyphen"/>rope,</hi> and have Enter'd into the ſtricteſt Alliance vvith thoſe of an Oppoſite Religion to Support it. It looks like a Dream, to meet vvith an <hi>English</hi> Proteſtant in an Intereſt contradistory to, not only the Publick liberty of their Country, but to the Religion they profeſs.</p>
+            <p>It vvas indeed no great vvonder that the late King made all the ſteps poſ<g ref="char:EOLhyphen"/>ſible tovvards the change of the Religion, in his Opinion, Heretical: At a time vvhen he vvas upon the Throne, and back'd vvith all the promiſing Supports of Regal Povver, yet even then he thought himſelf obliged to keep ſome Meaſures vvith his Proteſtant Subjects, and instead of a Total Rup<g ref="char:EOLhyphen"/>ture vvith them, endeavourd to lull them asleep, under the ſpecious pretence of <hi>liberty of Conſcience,</hi> till all his Engines vvere ready to give the fatal Blovv</p>
+            <p>But novv that he is fallen under Circumſtances, Which one vvould think should much more then ever oblige him to aſſume a nevv, at leaſt keep on the Old Mask: <g ref="char:V">Ʋ</g>pon the quite contrary, ſince he vvent to <hi>France,</hi> he takell all pains imaginable to let the World knovv, his inveterat Averſion to all thoſe of the Reform'd Religion, tho' never ſo much his Friends; and at the ſame time has given us the moſt Authentick Demonſtration of his firm De<g ref="char:EOLhyphen"/>ſign, never to allovv any there of his Favour, nor ovv his Reſtoration to any but <hi>Roman Catholicks.</hi> All vvhich vvill appear by the follovving ac<g ref="char:EOLhyphen"/>count of his Carriage tovvards thoſe fevv <hi>Proteſtants</hi> that have follovved <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sinking Fortunes, the length of <hi>St. Germains.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171416:2"/>
+            <head>A VIEW OF THE COURT OF S<hi rend="sup">t.</hi> GERMAIN. Directed to the <hi>Male-contents Proteſtants</hi> of ENGLAND.</head>
+            <p>THERE being already ſo many Volumns to shew the Lawfulneſs of the late Revolution, it is ſuperfluous, it ſeems, to make any further attempt on the ſame Subject: For if you have shut your Eyes againſt the ſtrong Arguments and Convincing Proofs made uſe in theſe Books, who can flatter himſelf to cure you of that wilful Blindneſs? However, I hope, this plain account I make bold to direct to you, will not prove altogether uſeleſs, for when I conſider your Party, I think I may reaſonably believe that it is made up of ſome good and honeſt Men, tho' miſguided by a tender Conſcience, and of ſome ſelf-intereſted Perſons, who being not able to obtain the Preferments they expected, have turned <hi>Jacobites</hi> in hopes to advance their Fortune by a Second Revolution. But give me leave to tell you further, that after an Impartial Enquity into the Life and Converſation of your Party, I have all the reaſons in the World to conclude that the Number of the <hi>Conſcentious Jacobites,</hi> I have ſpoken of, muſt be very little, and that the greateſt Number among you are hurried away by the imaginary hopes I have hinted at, therefore if I can convince you, that you have no reaſon to flatter your ſelves, to obtain any reward or preferments under King <hi>James,</hi> no, nor when he should be reſtored by your means, I hope
+<pb n="2" facs="tcp:171416:3"/>ſome of you will open their Eyes to their own Intereſt, and forſake a Prince from whom you cannot expect any greatful Return.</p>
+            <p>I won't recal to your Minds his Behavior while he was on the Throne of <hi>England,</hi> I ſuppoſe no body has forgot that no Proteſtants were welcome to him, but ſuch as would promiſe to betray the Liberties of their Country to Popery and Arbitrary Power; neither ſhall I mention how ſeverely he uſed the Proteſtants in <hi>Ireland</hi> in 1689; you would be apt to ſay that being in Popiſh hands he could not avoid it, but I intend only to give you a short view of his Court at St, <hi>Germain,</hi> and an Account of the Entertainment the Proteſtants of your Party have met there: For if a Prince in his Circumſtances, who Intereſt it ought to be to court proteſtants, cannot conceal for a time the Hatred he has for them what treatment can you expect from him, when he is Re-inthroned, and Supported by the power of <hi>France.</hi>
+            </p>
+            <p>King <hi>James</hi> retireing unto <hi>France</hi> after his defeat at the <hi>Boyn</hi> left the Adminiſtration of his Affairs in <hi>Ireland</hi> to my Lord <hi>Tyrconnel,</hi> and in <hi>Scotland</hi> to the Colonels <hi>Buchan</hi> and <hi>Cannan:</hi> and the <hi>French</hi> King having appointed St <hi>Germain</hi> in <hi>Laye</hi> for his Reception, he there began to form a Court in in the Year 1690, and his Houſhold was Conſtituted as follows.</p>
+            <list>
+               <item>The Duke of <hi>Powis,</hi> Lord Chamberlain.</item>
+               <item>Colonel <hi>Porter,</hi> Vice-Chamberlain.</item>
+               <item>Colonel <hi>Skelton</hi> Comptroller.</item>
+               <item>The Earls of <hi>Dumbarton</hi> and <hi>Abercome</hi> Lords of the Bed Chamber.</item>
+               <item>Captains, <hi>Macdonald, Beadles, Stafford,</hi> and <hi>Trevanian,</hi> Groom of the Bed Chamber.</item>
+               <item>The Two <hi>Skeldons.</hi> Eſquires.</item>
+               <item>
+                  <hi>Fergus Graham</hi> Privy purſe.</item>
+               <item>Sir <hi>John Sparrow,</hi> Board of green Cloath, and Mr. <hi>Strick<g ref="char:EOLhyphen"/>land,</hi> Vice Chamberlain to the Queen.</item>
+            </list>
+            <list>
+               <head>The Officers of State were as fellows.</head>
+               <item>Mr. <hi>Brown</hi> Brother to my Lord <hi>Montage Brown,</hi> and ſometime Commiſſioner of the Cuſtom) Secretary of St<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te for <hi>England.</hi>
+               </item>
+               <item>Father <hi>Innes,</hi> Preſident of the Scots Colledge at <hi>Paris</hi> Secretary of State for <hi>Scotland.</hi>
+               </item>
+               <pb n="3" facs="tcp:171416:3"/>
+               <item>Sir <hi>Richard Neagle,</hi> Secretary of State for <hi>Ireland.</hi>
+               </item>
+            </list>
+            <p>To which were added as a <hi>Juncto,</hi> Mr. <hi>Carril</hi> the Queens Secretary, and Mr. <hi>Stafford,</hi> formerly Envoy at the Court of <hi>Spain,</hi> whom the King called together as a <hi>Privy</hi>-Council, to adviſe with upon all Emergencies: The Earl of <hi>Melford</hi> Prime Miniſter of State, being ſent to <hi>Rome</hi> ſometime before, partly to Negociate King <hi>James</hi>'s Affairs at the Pope's Court, and partly to remove him from the Jealouſies of the <hi>Irish,</hi> who at that time wholly Monopolized this prince's Ear and F<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>our.</p>
+            <p>Thus things continued for a while, but <hi>Ireland</hi> being reduced ſometime after, and the <hi>Scotish Highlanders</hi> Sub<g ref="char:EOLhyphen"/>mitting, the Court of St. <hi>Germain</hi> was every day throng<g ref="char:EOLhyphen"/>ed with Gentlemen from thoſe Kingdoms, as well as from <hi>England;</hi> and then a Proteſtant Party began to diſtinguish themſelves, and endeavour to make an appeatance at that Court.</p>
+            <p>The firſt conſiderable ſtep they made, was to deſire a Chappel from King <hi>James,</hi> for the exerciſe of their worship according to the Church of <hi>England,</hi> and propos'd Dr. <hi>Grandvil,</hi> Brother to the Earl of <hi>Bath,</hi> formerly Dean of <hi>Durham,</hi> as a fit perſon to be their Chaplain; they urged the great Incouragement, ſuch a Toleration would give to his Adherents in <hi>England,</hi> and what ſatisfaction it would be to ſuch Proteſtants as followed him; but tho comon Policy, and his Circumſtances made every Body believe that this R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>queſt would be eaſily granted, yet it was poſitively denied, and Dr. <hi>Granvil</hi> obliged not only to retire from Court, but alſo from the Town of St. <hi>Germain</hi> to avoid the daily inſults of the Prieſts, and the dreaded Conſequences of the Jealouſies with which they poſſeſt't King <hi>James</hi>'s Court againſt him. Dr. <hi>Gordon,</hi> a Bishop of <hi>Scotland,</hi> the only proteſtant Divine that then was there, met with a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orſe Treatment ſtill than Dr. <hi>Granvil,</hi> and was reduced to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> neceſſity of abjuting his Religion for want of Bread, with <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ich he could not be ſupplied, but upon thoſe hard terms. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wever K. <hi>James</hi> being ſenſible that ſuch an uſage would <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>udice his intereſt in <hi>Britain,</hi> reſolved to prevent the having of any Proteſtant Divine there, and therefore ſent <hi>Bro<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Macqueen</hi> in Company of Major <hi>Scot</hi> into <hi>England,</hi> who <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ght Letters from him to his Friends, in which he
+<pb n="4" facs="tcp:171416:4"/>required them to trouble him no more with Divines, as Meſſengers.</p>
+            <p>This bad Succeſs did not altogether diſcourage the Proteſtant Party, they made a ſecond effort upon the conſtitution of the before mentioned Council of Five, to have one of the number at leaſt a Proteſtant: They inſiſted upon the Advantages which might thence redound to his Majeſties affairs in <hi>Britain,</hi> and for that end did earneſtly recomend my Lord Chief Juſtice <hi>Herbert</hi> as a Perſon both well qualified to give Advice in <hi>English</hi> Affairs, and of an unſpoted Reputation in his Country. Thoſe reaſons where ſo convincing, that the <hi>Irish</hi> fearing they would obtain their demand; an Information was trumped up againſt the Chief Juſtice by Mr. Comptroller <hi>Skelton,</hi> and Sir <hi>William Sharp,</hi> of having ſaid that King <hi>James's</hi> violent Temper would ruine himſelf and all that followed him. My Lord owned the Words, but made ſo ingenious an Explanation of his meaning, which was in relation to the Act of Settlement in <hi>Ireland;</hi> that King <hi>James</hi> was ſatisfied, The <hi>Irish</hi> having miſſed their Aim; formed a short time after another Plot againſt him, and charged him of Correſponding with the <hi>English,</hi> and miſ repreſenting the Tranſactions of that Court, whereupon he and a Worthy Lady, with whom he boarded, were confined, and <hi>Broomfield</hi> the Quaker committed to the <hi>Baſtile.</hi> And thus was this Lord Chief Juſtice for no other Reaſon, but his adhering to a Proteſtant intereſt, excluded from all share of management of Affairs in <hi>King James</hi>'s Court, tho his Capacity, and ſufferings were ſufficient in the Eyes of all reaſonable Men, to have intituled him to a share in that Prince's Favour and Secret. If my Lord Chief Juſtice <hi>Herbert</hi> was ſo uſed, I would fain know upon what ground any of our <hi>Jacobites</hi> should flatter himſelf of a better Treatment.</p>
+            <p>Mr. <hi>Cockburn</hi> of <hi>Lantoun</hi> in the Kingdom of <hi>Scotland</hi> wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the next Proteſtant that had Merit and Favour enough t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pretend to a share in the management of King <hi>James<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Affairs. This Gentleman having followed him in <hi>Irelan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> was taken at Sea, after the Battle of the <hi>Boyn,</hi> and broug<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> priſoner to <hi>London:</hi> but a propoſal being made of Exchangi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him for Captain <hi>St. Lo,</hi> Then priſoner in <hi>France,</hi> he <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>larged; and during his abode here, did ſo ingra<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="5" facs="tcp:171416:4"/>himſelf with the moſt conſiderable of the diſaffected proteſtants, that he was recommended by them to King <hi>James,</hi> as a perſon fit to ſerve him in the Affairs of greateſt Truſt, He was no ſooner arrived at St. <hi>Germain,</hi> that he told that prince, his Friends in <hi>England</hi> thought that my Lord <hi>Melford,</hi> who was then returned from <hi>Rome,</hi> was a great Grievance, and ought to be laid aſide, &amp; that the only way for the King to procure the good Opinion of his Subjects in <hi>Britain,</hi> and reconcile them to him, was to put the management of his Affairs in proteſtants Hands. This prudent Advice of the diſaffected proteſtants of <hi>England,</hi> or of Mr. <hi>Cockbur,</hi> had in effect quite contrary to what they expected; King <hi>James</hi> took it ſo ill, that in few days after an Order was procured from the <hi>French</hi> Court commanding him to depart <hi>France</hi> under ſevere penalties, being too much a Friend to the <hi>English</hi> Intereſt; Mr. <hi>Cockburn</hi> was forced to obey, and has lived as an Exile in <hi>Holland</hi> and <hi>Hamburg</hi> ever ſince.</p>
+            <p>But the Submiſſion of the <hi>Scotsh Highlanders</hi> affoord us ſtill ſome more convincing proofs of King <hi>James</hi>'s hatred for the proteſtant Religion, and of his ingratitude towards ſuch who had made a Sacrifice of all that can be dear to Men, to ſupport his ſinking Fortune in <hi>Scotland.</hi> The Lords <hi>Dumfermling, Dunkel,</hi> Colonels <hi>Cannon, Graham,</hi> and ſeveral others proteſtants, having forfeited their Eſtates and Families, retired into <hi>France,</hi> as alſo did the Colonels <hi>Buchan, Maxuel. Wachop,</hi> and ſome other Popish Gentle<g ref="char:EOLhyphen"/>men; but when they came to St. <hi>Germain,</hi> the Papiſts were immediatly preferred to conſiderable Poſts, both in the <hi>French</hi> and <hi>Irish</hi> Armies, where the Proteſtants, tho their Merit was greater, were expoſed to all imaginable hardship, and contempts: My Lord <hi>Dumfermling</hi> and Colonel <hi>Cannon</hi> are too Illuſtrious Examples of King <hi>James</hi>'s Ungratitude, to be here paſt by. The Earl through a miſtaken notion of Loyalty and Honour, had Sacrificed his Honourable Family, and a Plentiful Eſtate, to follow that Prince in his misfortune; and it moſt be granted that ſuch a Proof of Loyalty, deſerved ſome kind Returns, yet happening to Quarrel at St. <hi>Germain,</hi> with one Captain <hi>Brown,</hi> a Papiſt, about a Trifle, the Captain was incouraged and countenanced in his Quarrel by the Court, and made
+<pb n="9" facs="tcp:171416:5"/>Commander of a Company of <hi>Scots,</hi> Reformed Officers is <hi>Catalonia</hi> whilſt this Noble Lord was deſpiſed, for his ad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ering to his Religion, this ill Treatment broke his Heart, and he ſunk under he Weight of his hard Fate, at St. <hi>Germai<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> His misfortoun laſted longer than his Life, for notwith<g ref="char:EOLhyphen"/>ſtanding his Meris, Sufferings, and the intereſt made by his Friends, he not could obtain a Chriſtian Burial; and his Corps was laid in a Chamber, till an opportunity was found of digging a hole in the Fields in the Night where they Thurſt him in.</p>
+            <p>Nor was Colonel <hi>Cannon</hi> better uſed, then my Lord <hi>Dumferling:</hi> This Gentleman Commanded as General over King <hi>James</hi>'s Army in <hi>Scotland</hi> and ſerved him with ſo much faithfulneſs, that every body thought he would be preferred to a great Command upon his arrival at St. <hi>Germain;</hi> but he poſitively refuſing to abandon the little Religion he had which was Proteſtant, was reduced to the Scandalous Allowance of half a Crown a day whilſt papiſts who had ſerved under him were advanced to good poſts. This unhappy Gentleman finding himſelf thus neglected, fell ſick through Grief and Want, and died; having taken the Sacrament from the Hands of Dr. <hi>Granvile</hi> three dayes before his Death; but the prieſts who were alwayes buzing about him took the opportunity of his being ſpeechleſs to thruſt a Wafer down his Throat, and gave out that he dyed a Papiſt, and by this means got him the Favour of Burial, which his Corps had elſe been excluded from, as well as my Lord <hi>Drumforling</hi>'s. If the Sufferings and great Merits of theſe two Gentle Men have not been able to Molify King <hi>James</hi>'s Heart, and to brain from him any generous Returns, I would fain know upon what Foundation are grounded the great hopes of our Grumblers, ſeeing the moſt part of them have not had Courage enough to follow that Prince, and have, for ought we ſee no other Qualification to recommend them but their bare <hi>Jacabitiſm.</hi>
+            </p>
+            <p>However, the Examples I have already expoſed to your view, are not ſufficient to convince you, that as long as you are Proteſtants, and <hi>English</hi> Men, you are to expect no share in King <hi>James</hi>'s Favour; I'll produce ſome others, which I am ſure will open your Eyes, unleſs you are bound by an Oath to to continue always blind, and I'll begin with Sir <hi>James Moungomeris.</hi>
+            </p>
+            <pb n="7" facs="tcp:171416:5"/>
+            <p>This Gentleman left no Stone unturn'd to re-eſtablish King <hi>James</hi> in <hi>Scotland,</hi> by the ſame Parliament, that declared him to have Forfeited his Right; He was afterward, for Several Years, his moſt active Miniſter in <hi>England,</hi> Penn'd and published Declarations for him at the time of his deſigned Deſcent from <hi>La-Hogue,</hi> and after the Miſcar<g ref="char:EOLhyphen"/>riage of that, wrote his <hi>Britain</hi>'s <hi>Juſt Complaints:</hi> Was his weekly <hi>News ſender</hi> and <hi>Project Drawer;</hi> yet this is very Sir <hi>James Mountgomery,</hi> who had done ſuch great things, and run ſuch hazards for him being obliged to fly to <hi>France,</hi> after making his eſcape from the Meſſengers Houſe, could not obtain by reaſon of his being a proteſtant, any share in<g ref="char:EOLhyphen"/>to that Prince's Favour; was brow-beaten from the Court by Prieſts daily upbraided with having been once in the Prince of <hi>Orange's</hi> Intereſt &amp; at laſt obliged to retire <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Paris,</hi> where he dyed with the Melancholy Reflections of the miſerable State he brought himſelf into.</p>
+            <p>The Earl of <hi>Lauderdale,</hi> tho a Papiſt, met with no better Fate than Sir <hi>James;</hi> His Lady being a Proteſtant, and he an enemy to the violent Meaſures of the Court was judged to be ſufficient Reaſon to exclude him from any share, in the Government, ſo natural it is for all bigots to hate every body that will not go to their hight of Violence. This Gentleman heartily adviſed King <hi>James</hi> to put his affairs into Proteſtants Hands, and recommended the Earl of <hi>Cl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> and the Nonjuring Bishops in <hi>England,</hi> and the Lord <hi>Home, Southesk</hi> and <hi>Sinclar</hi> in <hi>Scotland,</hi> as the fitteſt perſons to ſerve him, but his Advice was ſo ill taken that he had his Lady ſent to <hi>England</hi> not to return any more, was himſelf forbid the Court, and reduced to a Penſion of one Hundred piſtlos <hi>per Annum;</hi> He retired to <hi>Paris,</hi> and ſeeing no pro<g ref="char:EOLhyphen"/>bability of his Maſters changing his Meaſures, died of Greif One vvould have thought that his Brother, Mr. <hi>Alexander Maitland,</hi> who on ſeveral Occaſions had behaved himſelf very bravely in that prince's Service, should have been preferred by him, yet he met with ſuch an Entertainment that wanting Bread there, he vvas very glad to come to <hi>England,</hi> and making his peace vvith the Government, vvhoſe Service he had Deſerred having once had a Command in the <hi>Scots</hi> Guards under King <hi>William.</hi>
+            </p>
+            <p>Sir <hi>Andrew Forreſter</hi> is unother greet Inſtance of King
+<pb n="8" facs="tcp:171416:6"/>
+               <hi>James</hi>'s averſion to Proteſtants: This Gentleman ſerved with all imaginable Zeal that Prince's Intereſts, when a Subject, and was the devoted Creature of his Moſt Arbitrary Commands, when a King, he ſuffered Impriſonment in the <hi>Tower</hi> for him at the time of his deſigned Deſcent, and yet notwithſtanding all this, and the great Experience he had in <hi>Scotish</hi> Affairs, he could never obtain any share in that Prince's Confidence: when he came to St. <hi>Germain</hi> all his Merits, Sufferings and the good Character he had in both Kingdoms were not enough to Counter-ballance the Objection of being a Proteſtant, and therefore by no means to be Intruſted; ſo that after ſome times Attendance, as a Cypher, he was rewarded with a paſs to return to <hi>England,</hi> for they had there no occaſion for him.</p>
+            <p>Sir <hi>Theophilus Oglethory,</hi> who by his Capacity as well as Services, was encouraged to go over and offer his Aſſiſtance, met with Sir <hi>Andrew Forreſter's</hi> Fate upon account of his Religion; and was ſo unkindly uſed that he was very glad to get home to Old <hi>England</hi> again, where 'tis expected he will Plot no more.</p>
+            <p>Mr. <hi>Fergus Graham</hi> was the only Proteſtant Gentleman in King <hi>James</hi>'s Family, but as ſoon as they ſaw that my Lord <hi>Preſton</hi> and Colonel <hi>Graham</hi> his Brother, who ventu<g ref="char:EOLhyphen"/>red ſo much for that Prince, could do them no more Service in <hi>England,</hi> he was diſcharged for no other reaſon, but that they thought a Proteſtant a Blemish in their Houſe-hold.</p>
+            <p>Nor was Sir <hi>William Sharp</hi> better uſed, altho he pretended to come over upon the Act of Parliament in <hi>Scotland</hi> to ſave his Eſtate, for the Entertainment he had at St. <hi>Germain</hi> before he came away is very well known. The penſion he had whilſt King <hi>James</hi>'s Army in <hi>Scotland</hi> kept up was taken from him, and he fell under diſtruſts, with <hi>Melford</hi> and <hi>Innes,</hi> and contempt at Court, which will appear to all Reaſonable Men a ſufficient motive for his coming away.</p>
+            <p>But the uſage of Dr. <hi>Cockburn,</hi> a Scotish Divine, is beyond any thing that can be imagined. This Gentleman was Banished <hi>Scotland</hi> for his practices againſt the Government, and afterwards being obliged to leave <hi>England</hi> for writing of Pamphlets, thought himſelf ſecure of a Sanctuary at St. <hi>Germain,</hi> if not, of a Reward for his Services; but inſtead of that he met with the daily importunities of Prieſts to
+<pb n="9" facs="tcp:171416:6"/>make him abandone his Religion, and their endeavours <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roving vain, they then repreſented him as a dangerous perſon and got him ſent from <hi>France.</hi> He lives now in Exile in <hi>Holland,</hi> both from <hi>Britain</hi> and <hi>France,</hi>
+            </p>
+            <p>Mrs. <hi>Ashton.</hi> widow to Mr. <hi>Ashton,</hi> who was Executed for his being concerned in my Lord <hi>Preſton's</hi> Affairs, went <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Court of St. <hi>Germain,</hi> after her Husband's Death, as <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hinking that she had ſome Merit to plead for a kind Reception, but she was as much deceived as any of thoſe I have already mentioned. Few dayes after her arrival, Prieſts were ſent to tell her, that nothing but being Roman Catholick could recommend a woman to the Queen's Service, which the poor Gentlewoman declining to comply with was neglected, and dying ſoon after, was refuſ'd Burial, till her Father Mr. <hi>Rigby</hi> of <hi>Covent-Garden,</hi> as a mighty Favour, and at great Charges, obtained leave from the Court of St. <hi>Germain,</hi> to have her Body brought over into <hi>England;</hi> and Buried her in <hi>Covent Garden</hi> Church.</p>
+            <p>If theſe Examples are not ſufficient to convince our <hi>Jacobites,</hi> or if they queſtion the truth of them, for really I muſt own that they are almoſt incredible; I deſire them to conſult the Young Lord <hi>Henmore;</hi> Mr. <hi>Louthian,</hi> Captains <hi>Murray, Dalyel, Macgil, Maclean, Fielding,</hi> Mr. <hi>Charles Kinnaird,</hi> and ſeveral hundreds more now in and about <hi>London,</hi> who are lately come from St. <hi>Germain,</hi> and they will tell you, that the only reaſon why they left that Court was, becauſe they could not have Bread, except they would change their Religion, and therefore did chooſe rather to run the hazard of Impriſonment, by returning to <hi>England,</hi> then ſtay and ſtarve in <hi>France.</hi>
+            </p>
+            <p>Many Inſtances more might be given, to shew King <hi>James</hi>'s hatred to every thing, that bears the name of Proteſtant; but if what has already been ſaid is not ſufficient; ſure <hi>I</hi> am, that the reſt should be to no purpoſes What Proteſtant has he ever ſo much as ſeemed to Truſt, ſince he lives in <hi>France?</hi> I know that my Lord <hi>Middleton</hi> muſt be excepted, for indeed King <hi>James</hi> has a ſeeming Truſt in him. There is no Man that has been at St. <hi>Germain</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> muſt needs perceive, that he is not chief Miniſter, as <hi>Melford</hi> was, nor manages Affairs betwixt <hi>Verſailes</hi> and St. <hi>Germain,</hi> that being done by <hi>Innes</hi> and <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rter:</hi> He is but
+<pb n="10" facs="tcp:171416:7"/>ſeldom called to the Couneil, and the <hi>French</hi> Court has never depended upon his Coreſpondance, ſince the diſappoint<g ref="char:EOLunhyphen"/>ment they received by our Fleets going into the <hi>Streights.</hi>
+            </p>
+            <p>I hope; theſe Inſtances will <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nvi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e all good Men, that have any ſenſe of Liberty, Religion, and Honour, how unreaſonable it is to be a <hi>Jacobite,</hi> and to think that the Preſent Misfotune; of King <hi>James,</hi> will frighten him from invading our Laws and Liberties in time to come, ſeeing, that neither the abandoning of Wives Children and Eſtates, nor the hazarding, nay, Loſs of Life in his Service, can render him Juſt and Favourable to ſuch Proteſtan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s who have made a Sacrifice of all thoſe Things to follow him: And if it be ſo, as certainly it is: what muſt thoſe Proteſtant, Nations expect, (if ever he re-obtains the Government) who have renounced him, and ſet another Prince upon his Throne?</p>
+            <p>If theſe who have followed him into <hi>France,</hi> are denied the Exerciſe of their Religion, when his Circumſtance make it his Intereſt to grant it, what muſt we expect if ever he be again in poſſeſſion of the Crown?</p>
+            <p>My Lord Chief Juſtice <hi>Herbert,</hi> and the other Gentlemen before named, who firmly adhered to his Intereſts even in his greateſt Misfortunes, were contemned, deſpiſed, and ſuffered to Starve, becauſe they were Proteſtants, how can we or any Proteſtant <hi>Jacobites,</hi> who have none of thoſe Merits, pretend to be better uſed? If the loſs of Honours and Eſtates, has not been ſufficient to obtain from him Chriſtian Burial; upon what Ground can our <hi>Jacobites</hi> who have dene nothing for him, flatter Themſelves with the hopes of great preferments, If he is reinthroned? In short, if the Examples he had of his Father's Misfortunes, and his Brothers Exil, wherein he himſelf was a shater, together with the Senſe of his own Misfortunes have not been able to work a Reformation upon him, as appears by the above written Accounts, can we expect that ever he will be made more plyable,</p>
+            <p>The Education of his Prince of <hi>Wales,</hi> whom no body deubts he deſigns his Succeſſor, is another Inſtance of his irreconcilable Antipathy to the Proteſtant Religion, and English Liberties: One would have thought that Intereſt, as well as Policy, would have made him educat his Child
+<pb n="11" facs="tcp:171416:7"/>a Proteſtant, or at leaſt oblige him to put proteſtants' about him of enqueſtioned Reputanon, to inſtruct him in the ways of pleaſing the people, but inſtead of that, Dr. <hi>Beejon</hi> a famous and violent Papiſt; was made his Preceptor, and none but Popish Servants were allowed to be about him, ſo that he can imbibe nothing but what is for the Intereſt of <hi>Rome,</hi> and Deſtruction of <hi>England.</hi>
+            </p>
+            <p>Can people be ſo mad as to expect good terms from a prince, who not only thus Treats his Proteſtant Subjects, who have followed him in his Misfortunes, but alſo whoſe Religion lays him under a Neceſſity of deing it? Could greater Obliga<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions be laid upon any Prince then were upon hin by the Church of <hi>England</hi> when a Subject? Her intereſt Saved him from being proſecuted for the Popist plot excluded from the Succeſſion to the <hi>English</hi> Throne, and afterwards Dethroned by the Doke of <hi>Monmouth,</hi> ye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all thoſe Obligations were no more than his Coronation Oath, could not hinder him from invading he Proteſtant Religion in general, but more particularly the Liberties of the Church of <hi>England,</hi>
+            </p>
+            <p>But perhaps ſome will Object againſt what I have ſaid, that from the Entertainment Proteſtants met with at St. <hi>Germain</hi> 'tis not reaſonable to conclude that King <hi>James</hi> pears ſtill ſuch an averſion to our Religion and Liberties: For being himſelf but a <hi>Refuge</hi> in <hi>France,</hi> and having nothing to live upon but the penſion the French King Ilows him, it is not in his power to reward thoſe Proteſtants who have followed him, even not to careſs them: and herefore we ought rather to peruſe the Declarations he as put out ſince his being in <hi>France;</hi> for therein we shall <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd undenieble proofs, that his Misfortunes have much tered his Mind. Read (vvill our <hi>Jacobites</hi> ſay) the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eclaration he published upon his intended Deſcent from <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Hague,</hi> and obſerve vvhat promiſes he makes, both in lation to our. Religion and our Liberties, the Sincerity thereof you have no manner of pretence to Queſtion, for <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en thinking himſelf ſure of his Game, nothing could lige him to diſguiſe the true gentiments of his Heart.</p>
+            <p>This is ſome vvhat indeed, Gentlemen, and vvere the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as you ſay, I vvould aggree vvith you, but give me<gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to tell you, that 'tis a great Queſtion <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:171416:8"/>Declaration you ſpeak of, which was Printed here; did really contain King <hi>James</hi>'s Sentiments; but whether it was his own Declaration, or Sir <hi>James Montgomtrie's,</hi> it does not matter a pin, for his late Majeſty did publiekly diſown it in a Memorial to the Pope, upon his return to <hi>Paris;</hi> and it has been acknowledged in a <hi>Jacobite</hi> Pamphlet, called, An <hi>Anſwer to Dr.</hi> welwood's <hi>Anſwer to King</hi> Jame's <hi>Declaration;</hi> That the ſame was formed without his Knowledge, and againſt his Inclination.</p>
+            <p>I have told you, in the beginning of this Diſcourſe, that I believe that there are among you ſome Conſcientious Men, and to thoſe I shall ſay nothing at this time, but to ſuch that are angry with the Government (as I know many amongſt you are) meerly becauſe they cannot have any Imployment under it, and who think without any further Examination to better their Condition by a ſecond Revolution: I'l ſay, that they ought to conſider, that King <hi>James</hi>'s Popish, Friends, muſt be all provided for firſt of all, and pray what will remain then for you? For as to Penſions I think you are not ſo mad as to flatter your ſelves with ſuch imaginary hopes, for the <hi>French</hi> Army that brings King <hi>James</hi> over muſt be paid, and their vaſt-Charges for the <hi>Irish</hi> war, and the Maintenance of King <hi>James</hi> Re-imburſed, before your beloved Prince be in a Condition to Expreſs his Favour to you: perhaps you will ſay, that the French King is too much a Gentleman, to demand any ſuch thing, but I don't know what has given you that Noble Idea of his Generoſity: But ſuppoſing his Temper to be ſuch, this War will ſo much drain his Exchequer, that Neceſſity will force him to demand what is juſtly owing to him and who shall be able to diſpute his Bill of Charges? Nay, will King <hi>James</hi> be able to ſatisfie him? I don't know, but this I am ſure of, that as long as you profeſs the proteſtant Religion, you cannot expect to be more Favourably Treated then his pre<g ref="char:EOLhyphen"/>ſent Followers.</p>
+            <p>Some others amongſt you are diſaffected, becauſe, as they ſay, without the Reſtotation of King <hi>James,</hi> a proteſtan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> war will be Entailed of the Nation, and becauſe our Treaſure is Exhauſted by Taxes, and Our Blood Expended beyon<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Sea, which the Nation cannot long bear.</p>
+            <pb n="13" facs="tcp:171416:8"/>
+            <p>To theſe Gentlemen I muſt anſwer, That they are much miſtaken, for the bringing in of King <hi>James,</hi> which they think will put an End to theſe Troubles, would Infallibly bring the Seat of War from <hi>Flanders</hi> into <hi>England:</hi> For in is Unreaſonable to Suppoſe, that ſo many Noblemen and Gentlemen as are Engaged in King <hi>William's</hi> Cauſe, would tamely Submit, or that his Majeſty, whoſe Intereſt in <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> is ſo very great would either Ingloriouſly abandone his Throne, or want Foreign Aſſiſtance to ſupport him in it.</p>
+            <p n="2">2. King <hi>James</hi> and the <hi>French</hi> King are both Old, and upon a Change of a Governour in <hi>France,</hi> we may reaſon<g ref="char:EOLhyphen"/>ably expect Change of Meaſures; for as to the prince of <hi>Wales,</hi> his Intereſt ſtands or falls with that of his Suppoſed Father; but after all, is it Reaſonable to believe that the <hi>French,</hi> or any other Nation, will live in perpetual War with us meerly for the ſake of a prince, who pretends to be deprived of his Rights? There are very few <hi>Knight-Errants</hi> in this Age, or at leaſt, ſure I am, that no Nation in general is acted by their principles, and we ſee the <hi>French</hi> offer already to forſake him.</p>
+            <p n="3">3. I grant that our taxes are greater then ever our Nation paid; but yet they are not ſo heavy but that we can hold it out, many Years at this Rate. In short, whatever they be, I believe there is no good Man but will rather hazard his perſon to keep the Enemy abroad, then ſee a <hi>French</hi> and <hi>Irish</hi> Army in the Bowels of our own Countrey, deſtroying our Subſtance, Burning our Habitations and Committing the Barbarities which they Committed in the <hi>palatinate:</hi> For Certainly by one Months Ravage of this Nature, we should loſe more Blood and treaſure then can probably be-ſpent to bring the War to an Honourable and Happy Con<g ref="char:EOLhyphen"/>cluſion.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat happy Moment is not perhaps ſo far as ſome people imagine; for whoſoever will caſt his Eyes on the preſent poſture of Affairs in <hi>Europe,</hi> muſt needs Conclude that the <hi>French</hi> cannot hold it out much longer.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
